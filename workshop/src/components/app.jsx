@@ -11,7 +11,7 @@ export default class App extends Component {
       <div className="left-scene">
         <SearchBar />
         <div className="selected-gif">
-          <Gif />
+          <Gif id="gG6OcTSRWaSis"/>
         </div>
       </div>
       <div className="right-scene">
