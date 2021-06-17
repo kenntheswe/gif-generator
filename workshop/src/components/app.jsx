@@ -10,6 +10,12 @@ export default class App extends Component {
       <div>
       <div className="left-scene">
         <SearchBar />
+        <div className="selected-gif">
+          <Gif />
+        </div>
+      </div>
+      <div className="right-scene">
+        <GifList />
       </div>
       </div>
     )

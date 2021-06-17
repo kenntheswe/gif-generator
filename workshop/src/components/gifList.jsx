@@ -1,10 +1,14 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+
+import Gif from './gif';
 
 export default class GifList extends Component {
   render() {
     return (
-      <div>
-        
+      <div className="gif-list">
+        <Gif />
+        <Gif />
+        <Gif />
       </div>
     )
   }
