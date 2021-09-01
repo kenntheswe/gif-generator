@@ -14,7 +14,7 @@ export default class App extends Component {
     super(props);
     this.state = {
       selectedId: "LmNwrBhejkK9EFP504",
-      ids: ["gG6OcTSRWaSis", "13HgwGsXF0aiGY", "13UZisxBxkjPwI", "zOvBKUUEERdNm", "LmNwrBhejkK9EFP504", "PnpkimJ5mrZRe", "5ntdy5Ban1dIY", "ZG719ozZxGuThHBckn", "TilmLMmWrRYYHjLfub", "kHrKpJiCbOmkWD4xT9"]
+      ids: []
     };
   }
 
